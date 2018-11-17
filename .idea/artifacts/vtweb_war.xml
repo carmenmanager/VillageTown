@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="vtweb:war">
+    <output-path>$PROJECT_DIR$/vtweb/target</output-path>
+    <root id="archive" name="vt-web.war">
+      <element id="artifact" artifact-name="vtweb:war exploded" />
+    </root>
+  </artifact>
+</component>

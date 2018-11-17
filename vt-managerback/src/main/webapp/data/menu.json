@@ -1,0 +1,49 @@
+[
+
+	     { "id":"10", "pId":"0", "name":"用户管理"},
+		{ "id":"118", "pId":"10", "name":"用户列表", "pageUrl":"pages/base/sub_area.jsp"},
+		{ "id":"119", "pId":"10", "name":"项目信息","pageUrl":"pages/base/fixed_area.jsp"},
+	{ "id":"120", "pId":"10", "name":"收藏信息","pageUrl":"pages/base/fixed_area.jsp"},
+	{ "id":"121", "pId":"10", "name":"用户意向管理","pageUrl":"pages/base/fixed_area.jsp"},
+	{ "id":"121", "pId":"10", "name":"认证审核","pageUrl":"pages/base/fixed_area.jsp"},
+
+
+
+	{ "id":"11", "pId":"0", "name":"广告管理"},
+	{ "id":"122", "pId":"11", "name":"发展动态" ,"pageUrl":"pages/take_delivery/waybill_quick.jsp"},
+	{ "id":"123", "pId":"11", "name":"政策导向" ,"pageUrl":"pages/take_delivery/waybill.jsp"},
+	{ "id":"124", "pId":"11", "name":"他山之石" ,"pageUrl":"pages/take_delivery/waybill_manage.jsp"},
+	{ "id":"125", "pId":"11", "name":"重大活动" ,"pageUrl":"pages/take_delivery/waybill_manage.jsp"},
+
+	{ "id":"12", "pId":"0", "name":"最新资讯"},
+		{ "id":"132", "pId":"12", "name":"发展动态" ,"pageUrl":"pages/take_delivery/waybill_quick.jsp"},
+		{ "id":"133", "pId":"12", "name":"政策导向" ,"pageUrl":"pages/take_delivery/waybill.jsp"},
+		{ "id":"134", "pId":"12", "name":"他山之石" ,"pageUrl":"pages/take_delivery/waybill_manage.jsp"},
+	    { "id":"135", "pId":"12", "name":"重大活动" ,"pageUrl":"pages/take_delivery/waybill_manage.jsp"},
+
+	 { "id":"13", "pId":"0", "name":"发展地图管理"},
+		{ "id":"136", "pId":"13", "name":"发展地图","pageUrl":"pages/take_delivery/promotion.jsp"},
+	   { "id":"137", "pId":"13", "name":"小镇管理","pageUrl":"pages/take_delivery/promotion.jsp"},
+	   { "id":"138", "pId":"13", "name":"项目数据管理","pageUrl":"pages/take_delivery/promotion.jsp"},
+
+	{ "id":"14", "pId":"0", "name":"小镇申报"},
+	{ "id":"139", "pId":"14", "name":"小镇管理员","pageUrl":"pages/system/user.jsp"},
+	{ "id":"140", "pId":"14", "name":"小镇申报信息","pageUrl":"pages/system/role.jsp"},
+
+	    { "id":"18", "pId":"0", "name":"基础信息管理"},
+	    { "id":"146", "pId":"18", "name":"广告类型","pageUrl":"pages/system/resource.jsp"},
+	  { "id":"19", "pId":"0", "name":"PC端管理"},
+	{ "id":"147", "pId":"19", "name":"菜单目录","pageUrl":"pages/system/resource.jsp"},
+
+	  { "id":"20", "pId":"0", "name":"数据中心"},
+	{ "id":"153", "pId":"20", "name":"数据管理","pageUrl":"pages/system/user.jsp"},
+	{ "id":"154", "pId":"20", "name":"数据分析","pageUrl":"pages/system/user.jsp"},
+	{ "id":"155", "pId":"20", "name":"PC数据中心","pageUrl":"pages/system/resource.jsp"},
+
+	{ "id":"21", "pId":"0", "name":"权限管理"},
+	{ "id":"156", "pId":"21", "name":"管理员","pageUrl":"pages/system/user.jsp"},
+	{ "id":"157", "pId":"21", "name":"角色管理","pageUrl":"pages/system/role.jsp"},
+	{ "id":"158", "pId":"21", "name":"菜单管理","pageUrl":"pages/system/resource.jsp"}
+
+
+]

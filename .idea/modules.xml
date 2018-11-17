@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/vt-api/vt-api.iml" filepath="$PROJECT_DIR$/vt-api/vt-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vt-commons/vt-commons.iml" filepath="$PROJECT_DIR$/vt-commons/vt-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vt-managerback/vt-managerback.iml" filepath="$PROJECT_DIR$/vt-managerback/vt-managerback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vt-parent.iml" filepath="$PROJECT_DIR$/vt-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vt-web/vt-web.iml" filepath="$PROJECT_DIR$/vt-web/vt-web.iml" />
+    </modules>
+  </component>
+</project>
