@@ -1,0 +1,40 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Java template
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+.idea
+target
+*.iml
+.classpath
+.project
+.settings
+bin
+
+
+.idea/inspectionProfiles/
+vt-api/target/vt-api/META-INF/
+vt-api/target/vt-api/WEB-INF/classes/
+vt-commons/target/generated-sources/
+vt-commons/target/generated-test-sources/
+vt-managerback/src/main/webapp/easyui-1.4.2/
+vt-managerback/target/vt-managerback/WEB-INF/classes/
